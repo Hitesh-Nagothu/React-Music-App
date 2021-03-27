@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# React MUSIC Player
+
+Credits: Thanks to http://chillhop.com/ for the songs.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
